@@ -4,6 +4,7 @@
 - 📫 How to reach me:
       -Telegram: @sn1cka
       -Gmail: ilenko.a99
+- 📑 CV RUS http://bit.ly/sn1ckaCV
 
 <!---
 sn1cka/sn1cka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
