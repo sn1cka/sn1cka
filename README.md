@@ -4,5 +4,5 @@
 - 📫 How to reach me:
       -Telegram: @sn1cka
       -Email: ilenko.a99@gmail.com
-- 📑 CV RUS http://bit.ly/sn1cka_cv
+- 📑 CV RUS https://bit.ly/sn1cka_cv_rus
 
