@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @sn1cka
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Python, Dart, Flutter
+- 👋 Hi, I’m @sn1ck
+- 🏢 Now I work at MegaCom, CJSC "Alfa-Telecom".
+- 👀 I’m interested in Flutter 
+- 🌱 I’m currently learning Python
 - 📫 How to reach me:
       -Telegram: @sn1cka
       -Email: ilenko.a99@gmail.com
