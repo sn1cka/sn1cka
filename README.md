@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sn1ck
+- 👋 Hi, I’m @sn1cka
 - 🏢 Now I work at MegaCom, CJSC "Alfa-Telecom".
 - 👀 I’m interested in Flutter 
 - 🌱 I’m currently learning Python
