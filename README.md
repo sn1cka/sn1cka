@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sn1cka
-- 🏢 Now I work at MegaCom, CJSC "Alfa-Telecom".
+- 🏢 Now I work in EPAM Systems
 - 👀 I’m interested in Flutter 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me:
